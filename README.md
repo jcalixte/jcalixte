@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oi! Bonjour ! Hello! 👋
 
 I'm Julien. A mobile & web developer.
 
