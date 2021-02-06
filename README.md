@@ -4,7 +4,7 @@ I'm Julien. A mobile & web developer.
 
 I am into building things with code. I love creating offline first Progressive Web Apps.
 
-I use :
+I use:
 
 + JavaScript / TypeScript
 + VueJS
