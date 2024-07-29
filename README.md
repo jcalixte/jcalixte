@@ -11,7 +11,6 @@ I use:
 + React Native
 + NestJS
 + C#
-+ .Net Core
 
 You can reach me on my [dev.to](https://dev.to/jcalixte) account 🤓
 
